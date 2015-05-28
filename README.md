@@ -7,10 +7,15 @@ So far, we’ve done a lot of work that involve finishing labs, meaning we’ve 
 In this challenge, each group must design and build a landing page for your favorite person, place, or product, or brand. Here are a few examples:
 
 [Beyonce](http://www.beyonce.com/)
+
 [Visit Finland](http://www.visitfinland.com/)
+
 [Taylor Swift](http://taylorswift.com/)
+
 [The Fernway](http://thefernway.com/)
+
 [iPhone](https://www.apple.com/iphone/)
+
 [A bunch more](http://land-book.com/)
 
 Think about what these sites have in common. How is the information laid out? What makes these sites appealing to look at? What would you change about them?
