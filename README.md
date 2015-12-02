@@ -38,3 +38,5 @@ Have one person fork and clone this repository. This person should then add the 
 ## Resources
 [Adding Github Collaborators](https://help.github.com/articles/adding-collaborators-to-a-personal-repository/)
 
+
+<a href='https://learn.co/lessons/hs-landing-page-group-project' data-visibility='hidden'>View this lesson on Learn.co</a>
